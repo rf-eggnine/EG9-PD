@@ -1,5 +1,5 @@
 # MIT_-1 License
-[![License: MIT_-1](https://img.shields.io/badge/License-MIT_-1-lightgrey.svg)](LICENSE)
+[![License: MIT_-1](https://img.shields.io/badge/License-MIT_-1-lightgrey.svg)](LICENSE_TEMPLATE)
 
 A variant of the popular [MIT License](https://opensource.org/license/mit/) that includes an explicit disclaimer for individuals whose employers or schools decline to provide formal copyright waivers.
 
