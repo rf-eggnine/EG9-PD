@@ -1,11 +1,11 @@
-# MIT_-1 License
-[![License: MIT_-1](https://img.shields.io/badge/License-MIT_-1-lightgrey.svg)](LICENSE_TEMPLATE)
+# EG9-PD License
+[![License: EG9-PD](https://img.shields.io/badge/License-EG9-PD-lightgrey.svg)](LICENSE_TEMPLATE)
 
 A variant of the popular [MIT License](https://opensource.org/license/mit/) that includes an explicit disclaimer for individuals whose employers or schools decline to provide formal copyright waivers.
 
 ## ✍️ Purpose
 
-The MIT_-1 License was created to allow independent developers—especially those working under employment or academic agreements—to open source their personal work **while acknowledging potential third-party claims** from their institution.
+The EG9-PD License (Eggnine Personal Disclaimer License) was created to allow independent developers—especially those working under employment or academic agreements—to open source their personal work **while acknowledging potential third-party claims** from their institution.
 
 This license is ideal for:
 
@@ -15,7 +15,7 @@ This license is ideal for:
 
 ## ⚖️ What's Different from MIT?
 
-MIT_-1 retains all the freedoms of the original MIT license:
+EG9-PD retains all the freedoms of the original MIT license:
 
 - ✅ Free use, modification, distribution, sublicensing, and sale
 - ✅ Provided "as-is", with no warranty
@@ -28,7 +28,7 @@ But adds the following disclaimers:
 
 ## 🛑 Use at Your Own Risk
 
-While the software licensed under MIT_-1 is provided with generous permissions, the added disclaimer introduces uncertainty that **could affect legal risk** in commercial or sensitive environments.
+While the software licensed under EG9-PD is provided with generous permissions, the added disclaimer introduces uncertainty that **could affect legal risk** in commercial or sensitive environments.
 
 You are encouraged to review the license in full and consult legal counsel if needed.
 
