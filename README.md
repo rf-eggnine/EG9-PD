@@ -34,7 +34,7 @@ You are encouraged to review the license in full and consult legal counsel if ne
 
 ## 📎 License File
 
-The full license text is available in the [LICENSE](./LICENSE) file in this repository.
+The a template for the full license is available in the [LICENSE_TEMPLATE](./LICENSE_TEMPLATE) file in this repository.
 
 ## 🙏 Acknowledgements
 
